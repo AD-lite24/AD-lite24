@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Dandwate
-- I am a CS student at BITS Pilani
+- I am a CS student at BITS Pilani, Pilani campus
 
 
 <!---
